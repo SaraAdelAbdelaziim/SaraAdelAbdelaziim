@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SaraAdelAbdelaziim
 - 👀 I’m a Junior Software Tester
-- 🌱 With a good Test Automation Skills,
-- 👀 I have excellent communication skills, presentation skills, attention to details an a good team player
+- 🌱 With a good Test Automation Skills
+- 👀 I have excellent communication skills, presentation skills, attention to details and a good team player
 - 📫 How to reach me (sara.abdelaziim@gmail.com)
 
 <!---
